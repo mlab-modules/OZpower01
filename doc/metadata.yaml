@@ -1,0 +1,19 @@
+description: Construction of single power operational aplifier suitable for 18V/3A
+github_branch: OZpower01A
+github_description: Construction of single power operational aplifier suitable for
+  18V/3A
+github_repo: OZpower01
+github_url: https://github.com/mlab-modules/OZpower01
+homepage: false
+images:
+- doc/img/OZPOWER01A_small.jpg
+- doc/img/OZPOWER01A_big.jpg
+- doc/img/sch.png
+- doc/img/O1.png
+- doc/img/OZpower01A_QRcode.png
+- doc/img/sch2.png
+mark: 50
+status: 0
+tags: []
+title: OZpower01
+updated: '2023-09-17T11:41:08.849970+00:00'
